@@ -52,6 +52,16 @@ To implement various functionalities and ensure the smooth operation of the appl
 
 By leveraging these dependencies, we were able to implement various features and functionalities within the MediGenius application, ensuring its effectiveness and reliability in providing preliminary healthcare assistance to users.
 
+**Demo Video**
+
+The video below demonstrates the various functionalities present in our HealthCare Bot
+
+
+https://github.com/SoheliPaul/MediGenius/assets/140642505/ba94648d-e1b4-457c-96d0-8b2ec35a97e0
+
+
+
+
 **Use of Intel API**
 
 **🚀 Usage **
@@ -61,6 +71,7 @@ By leveraging these dependencies, we were able to implement various features and
 3. Enter your symptoms one by one when prompted.
 4. MediGenius will predict possible diseases based on your symptoms.
 5. If suffering for more than 10 days, MediGenius suggests nearby hospitals using Google Maps.
+
 
 **🔮 Future Scope**
 
